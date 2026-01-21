@@ -51,16 +51,16 @@ All tables are connected using primary and foreign keys to maintain data integri
 📂 Project Structure
 
 Retail-SQL-Analytics-Project
-│
-├── schema.sql
-├── queries.sql
-├── README.md
-└── data/
-    ├── stores.csv
-    ├── products.csv
-    ├── customers.csv
-    ├── staff.csv
-    └── sales.csv
+
+schema.sql
+queries.sql
+README.md
+data/
+    ─ stores.csv, 
+     ─ products.csv,
+    ─ customers.csv,
+    ─ staff.csv,
+    ─ sales.csv
 
 📥 Data Loading
 
