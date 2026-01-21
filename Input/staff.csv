@@ -1,0 +1,16 @@
+staff_id,staff_name,email,phone,store_id,role
+301,Amit,amit301@retail.com,9000010001,1,Sales Exec
+302,Neha,neha302@retail.com,9000010002,2,Manager
+303,Rahul,rahul303@retail.com,9000010003,3,Sales Exec
+304,Priya,priya304@retail.com,9000010004,4,Sales Exec
+305,Suresh,suresh305@retail.com,9000010005,5,Manager
+306,Kiran,kiran306@retail.com,9000010006,6,Sales Exec
+307,Deepa,deepa307@retail.com,9000010007,7,Sales Exec
+308,Raj,raj308@retail.com,9000010008,8,Manager
+309,Simran,simran309@retail.com,9000010009,9,Sales Exec
+310,Vikram,vikram310@retail.com,9000010010,10,Sales Exec
+311,Anjali,anjali311@retail.com,9000010011,11,Manager
+312,Rohan,rohan312@retail.com,9000010012,12,Sales Exec
+313,Meena,meena313@retail.com,9000010013,13,Sales Exec
+314,Sachin,sachin314@retail.com,9000010014,14,Manager
+315,Tina,tina315@retail.com,9000010015,15,Sales Exec

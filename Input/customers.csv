@@ -1,0 +1,16 @@
+customer_id,customer_name,email,phone,city
+101,Ravi,ravi101@gmail.com,9876543210,Delhi
+102,Anita,anita102@gmail.com,9876543211,Mumbai
+103,Suresh,suresh103@gmail.com,9876543212,Bangalore
+104,Pooja,pooja104@gmail.com,9876543213,Hyderabad
+105,Aman,aman105@gmail.com,9876543214,Chennai
+106,Neha,neha106@gmail.com,9876543215,Pune
+107,Rohit,rohit107@gmail.com,9876543216,Kolkata
+108,Kavya,kavya108@gmail.com,9876543217,Jaipur
+109,Arjun,arjun109@gmail.com,9876543218,Ahmedabad
+110,Megha,megha110@gmail.com,9876543219,Bhopal
+111,Kunal,kunal111@gmail.com,9876543220,Noida
+112,Divya,divya112@gmail.com,9876543221,Gurgaon
+113,Manish,manish113@gmail.com,9876543222,Indore
+114,Swati,swati114@gmail.com,9876543223,Dehradun
+115,Nitin,nitin115@gmail.com,9876543224,Raipur

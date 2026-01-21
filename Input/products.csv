@@ -1,0 +1,16 @@
+product_id,product_name,category,price
+201,Laptop,Electronics,55000
+202,Mobile,Electronics,25000
+203,Headphones,Electronics,3000
+204,TV,Electronics,45000
+205,Refrigerator,Appliances,40000
+206,Washing Machine,Appliances,35000
+207,Microwave,Appliances,15000
+208,Chair,Furniture,5000
+209,Table,Furniture,8000
+210,Sofa,Furniture,30000
+211,Notebook,Stationery,100
+212,Pen,Stationery,20
+213,Printer,Electronics,12000
+214,Camera,Electronics,28000
+215,Air Conditioner,Appliances,42000
