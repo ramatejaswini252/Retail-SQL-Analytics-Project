@@ -62,7 +62,7 @@ data/
     ─ staff.csv,
     ─ sales.csv
 
-📥 Data Loading
+📥 Data Load
 
 All data is loaded using CSV file imports instead of manual INSERT statements, simulating real-world ETL processes.
 This improves scalability and reflects how actual business databases are populated.
